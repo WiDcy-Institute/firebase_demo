@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "785562573103",
+    "project_id": "demoapp-a061f",
+    "storage_bucket": "demoapp-a061f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785562573103:android:66a0c50130f0012c4429da",
+        "android_client_info": {
+          "package_name": "kh.edu.widcy.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785562573103-4g94d2e0kjfjhjime3uvl88gjqs09fgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTlUQreS7VyBWHOk4oK5ZWvKPNq0vbBz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785562573103-4g94d2e0kjfjhjime3uvl88gjqs09fgu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785562573103-0cikclp4elhedmmbms1as870tp6ne7au.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kh.edu.widcy.firebasedemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
